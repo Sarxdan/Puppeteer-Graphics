@@ -4,29 +4,29 @@ T_Earthglobe					Check
 T_Lightholder					Check
 T_Painting					Check
 T_Bookshelf					Check
-T_CornerInnerWall_1				
-T_CornerInnerWall_2
-T_CornerWall_1
-T_CornerWall_2
+T_CornerInnerWall_1				Check
+T_CornerInnerWall_2				Check
+T_CornerWall_1					Check
+T_CornerWall_2					Check
 T_Curtians					Check
 T_Door						Check
 T_DoorFrame					Check
-T_Floor_1					
+T_Floor_1					Check
 T_Floor_2 (remake whole thing?)
-T_Floorboards
-T_InteriorWall_Vavle
-T_InteriorWall_Pillar
-T_Pillar
+T_Floorboards					Check
+T_InteriorWall_Vavle				Check
+T_InteriorWall_Pillar				Check
+T_Pillar					Check
 T_Roof_1
 T_Roof_1_V2
 T_Roof_2
-T_Walls_1
-T_Walls_2
-T_Froggo (Fix not using metallic + add AO)
-T_Froggo_Eye
-T_Minon
-T_Beartrap
-T_Spikes
-T_Pistol
-T_Rifle
-T_Shotgun
+T_Walls_1					Check
+T_Walls_2					Check
+T_Froggo (Fix not using metallic + add AO)	Check
+T_Froggo_Eye					Check
+T_Minon						Check
+T_Beartrap					Check
+T_Spikes					Check
+T_Pistol					Check
+T_Rifle						Check
+T_Shotgun					Check

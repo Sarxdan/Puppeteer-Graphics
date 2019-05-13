@@ -1,0 +1,32 @@
+T_Bed
+T_Chandelier
+T_Earthglobe
+T_Lightholder
+T_Painting
+T_Bookshelf
+T_CornerInnerWall_1
+T_CornerInnerWall_2
+T_CornerWall_1
+T_CornerWall_2
+T_Curtians
+T_Door
+T_DoorFrame
+T_Floor_1
+T_Floor_2 (remake whole thing?)
+T_Floorboards
+T_InteriorWall_Vavle
+T_InteriorWall_Pillar
+T_Pillar
+T_Roof_1
+T_Roof_1_V2
+T_Roof_2
+T_Walls_1
+T_Walls_2
+T_Froggo (Fix not using metallic + add AO)
+T_Froggo_Eye
+T_Minon
+T_Beartrap
+T_Spikes
+T_Pistol
+T_Rifle
+T_Shotgun

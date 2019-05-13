@@ -17,9 +17,9 @@ T_Floorboards					Check
 T_InteriorWall_Vavle				Check
 T_InteriorWall_Pillar				Check
 T_Pillar					Check
-T_Roof_1
-T_Roof_1_V2
-T_Roof_2
+T_Roof_1					Check
+T_Roof_1_V2					Check
+T_Roof_2					Check
 T_Walls_1					Check
 T_Walls_2					Check
 T_Froggo (Fix not using metallic + add AO)	Check

@@ -1,17 +1,17 @@
-T_Bed
-T_Chandelier
-T_Earthglobe
-T_Lightholder
-T_Painting
-T_Bookshelf
-T_CornerInnerWall_1
+T_Bed						Check
+T_Chandelier					Check
+T_Earthglobe					Check
+T_Lightholder					Check
+T_Painting					Check
+T_Bookshelf					Check
+T_CornerInnerWall_1				
 T_CornerInnerWall_2
 T_CornerWall_1
 T_CornerWall_2
-T_Curtians
-T_Door
-T_DoorFrame
-T_Floor_1
+T_Curtians					Check
+T_Door						Check
+T_DoorFrame					Check
+T_Floor_1					
 T_Floor_2 (remake whole thing?)
 T_Floorboards
 T_InteriorWall_Vavle

@@ -30,3 +30,15 @@ T_Spikes					Check
 T_Pistol					Check
 T_Rifle						Check
 T_Shotgun					Check
+
+T_AmmoBox
+T_Medkit
+T_Armchair
+T_Couch
+T_Desk
+T_Fireplace
+T_Floorlamp
+T_Rug
+T_Tablelamp
+T_Window
+T_Roofboards
